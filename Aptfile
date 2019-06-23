@@ -1,5 +1,4 @@
-libsm
-libsm6
-libxrender1
-libfontconfig1
-libice6
+libsm6:amd64
+libxrender1:amd64
+libfontconfig1:amd64
+libice6:amd64
