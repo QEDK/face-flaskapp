@@ -46,7 +46,7 @@ mtcnn==0.0.9
 nbconvert==5.4.1
 nbformat==4.4.0
 numpy==1.15.4
-opencv-contrib-python==4.1.0.25
+opencv-contrib-python==4.1.1.26
 optional-django==0.1.0
 pandas==0.24.1
 pandocfilters==1.4.2
